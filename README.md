@@ -91,7 +91,7 @@ The POC was tested on five real B2B SaaS companies.
 | Linear | 55 | MEDIUM |
 | Intercom | 55 | MEDIUM |
 | Ramp | 65 | HIGH |
-| Gong | 40 | MEDIUM |
+| Gong | 55 | MEDIUM |
 | Vanta | 55 | MEDIUM |
 
 ### Key observations
