@@ -1,0 +1,124 @@
+Scraping website...
+Website scraped successfully.
+Characters: 13627
+
+Enter external research evidence for Ramp
+Press Enter without typing anything when you are done.
+
+Evidence type (funding/hiring/launch/repositioning): funding
+Evidence: Ramp secured a massive $750 million Series F financing round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan, soaring its valuation to $44 billion, and entered subsequent late-summer talks to raise anadditional $1 billion at a $60 billion valuation.
+Source URL: https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/
+Evidence type (funding/hiring/launch/repositioning): launch
+Evidence: Ramp launched "Ramp Stack," an AI-native operating system tailored specifically for accounting firms to automate workflow execution, reconcile cash flows, manage monthly closes, and address acute labor shortages in the CPA industry.
+Source URL: https://finance.yahoo.com/sectors/technology/articles/ramp-launches-stack-ai-operating-120000790.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHQRWg9t8J89YvZaEaZRojMs16x9hxy1EPPiaHQfX4YYLyYVSGjHGj5zq39Bsj7ZfxzDWP6YlaC81yO9OC_yZreGJWF7UNSJS_SkbqLFCXVVPp15gyEjMEGgK44UYnEsVp1rWdzyvsOCtfPfyhSBw6qFsbD5_DzpTxr66VD8W08m
+Evidence type (funding/hiring/launch/repositioning): hiring
+Evidence: Ramp scaled up its recruitment pipelines by opening more than 140 active full-time roles across its New York City headquarters and global offices, focusing heavily on expanding engineering, product design, and automation talent.
+Source URL: https://jobs.ashbyhq.com/ramp
+Evidence type (funding/hiring/launch/repositioning): repositioning
+Evidence: Ramp executed an extensive four-week brand system refresh that introduced a flexible, motion-centric design language pairing sharp geometric elements with fluid blurs to mirror its evolution from a fixed corporate card issuer to a dynamic, multi-product AI enterprise platform.
+Source URL: https://www.linkedin.com/posts/emerlineji_ramp-brand-refresh-2026-four-weeks-a-talented-activity-7496653788636962816-YZg5/
+Evidence type (funding/hiring/launch/repositioning): 
+
+Analyzing company...
+
+
+RAW LLM RESPONSE:
+
+{
+    "signals": {
+        "weak_website_positioning": {
+            "detected": false,
+            "evidence": "The website has clear and concise messaging about what the company does and who it serves.",
+            "source_url": "https://ramp.com/",
+            "confidence": 0.8
+        },
+        "major_product_website_change": {
+            "detected": true,
+            "evidence": "Ramp launched 'Ramp Stack,' an AI-native operating system tailored specifically foraccounting firms.",
+            "source_url": "https://finance.yahoo.com/sectors/technology/articles/ramp-launches-stack-ai-operating-120000790.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHQRWg9t8J89YvZaEaZRojMs16x9hxy1EPPiaHQfX4YYLyYVSGjHGj5zq39Bsj7ZfxzDWP6YlaC81yO9OC_yZreGJWF7UNSJS_SkbqLFCXVVPp15gyEjMEGgK44UYnEsVp1rWdzyvsOCtfPfyhSBw6qFsbD5_DzpTxr66VD8W08m",
+            "confidence": 0.9
+        },
+        "category_repositioning": {
+            "detected": true,
+            "evidence": "Ramp is positioning itself as a dynamic, multi-product AI enterprise platform.",
+            "source_url": "https://www.linkedin.com/posts/emerlineji_ramp-brand-refresh-2026-four-weeks-a-talented-activity-7496653788636962816-YZg5/",
+            "confidence": 0.8
+        },
+        "recent_funding": {
+            "detected": true,
+            "evidence": "Ramp secured a massive $750 million Series F financing round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan.",
+            "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/",
+            "confidence": 0.9
+        },
+        "senior_marketing_brand_hire": {
+            "detected": false,
+            "evidence": "There is no evidence of a recent senior marketing, brand, growth, or similar leadership hire.",
+            "source_url": "",
+            "confidence": 0.0
+        },
+        "active_design_brand_growth_hiring": {
+            "detected": true,
+            "evidence": "Ramp scaled up its recruitment pipelines by opening more than 140 active full-time roles across its New York City headquarters and global offices.",
+            "source_url": "https://jobs.ashbyhq.com/ramp",
+            "confidence": 0.8
+        }
+    },
+    "website_observations": "The website has clear and concise messaging about what the company does and whoit serves. The website also has a clear and consistent design language.",
+    "likely_need": "Ramp may need help with repositioning its brand and messaging to better reflect its new AI-native operating system and multi-product platform.",
+    "relevant_stakeholder": "Founder, CEO, or Head of Marketing",
+    "personalised_outreach_angle": "We would like to discuss how Brandhero can help Ramp refine its brand and messaging to better reflect its new AI-native operating system and multi-product platform, and to support its recent funding and hiring efforts."
+}
+
+FINAL STRUCTURED RESULT:
+
+{
+    "signals": {
+        "weak_website_positioning": {
+            "detected": false,
+            "evidence": "The website has clear and concise messaging about what the company does and who it serves.",
+            "source_url": "https://ramp.com/",
+            "confidence": 0.8
+        },
+        "major_product_website_change": {
+            "detected": true,
+            "evidence": "Ramp launched 'Ramp Stack,' an AI-native operating system tailored specifically foraccounting firms.",
+            "source_url": "https://finance.yahoo.com/sectors/technology/articles/ramp-launches-stack-ai-operating-120000790.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHQRWg9t8J89YvZaEaZRojMs16x9hxy1EPPiaHQfX4YYLyYVSGjHGj5zq39Bsj7ZfxzDWP6YlaC81yO9OC_yZreGJWF7UNSJS_SkbqLFCXVVPp15gyEjMEGgK44UYnEsVp1rWdzyvsOCtfPfyhSBw6qFsbD5_DzpTxr66VD8W08m",
+            "confidence": 0.9
+        },
+        "category_repositioning": {
+            "detected": true,
+            "evidence": "Ramp is positioning itself as a dynamic, multi-product AI enterprise platform.",
+            "source_url": "https://www.linkedin.com/posts/emerlineji_ramp-brand-refresh-2026-four-weeks-a-talented-activity-7496653788636962816-YZg5/",
+            "confidence": 0.8
+        },
+        "recent_funding": {
+            "detected": true,
+            "evidence": "Ramp secured a massive $750 million Series F financing round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan.",
+            "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/",
+            "confidence": 0.9
+        },
+        "senior_marketing_brand_hire": {
+            "detected": false,
+            "evidence": "There is no evidence of a recent senior marketing, brand, growth, or similar leadership hire.",
+            "source_url": "",
+            "confidence": 0.0
+        },
+        "active_design_brand_growth_hiring": {
+            "detected": true,
+            "evidence": "Ramp scaled up its recruitment pipelines by opening more than 140 active full-time roles across its New York City headquarters and global offices.",
+            "source_url": "https://jobs.ashbyhq.com/ramp",
+            "confidence": 0.8
+        }
+    },
+    "website_observations": "The website has clear and concise messaging about what the company does and whoit serves. The website also has a clear and consistent design language.",
+    "likely_need": "Ramp may need help with repositioning its brand and messaging to better reflect its new AI-native operating system and multi-product platform.",
+    "relevant_stakeholder": "Founder, CEO, or Head of Marketing",
+    "personalised_outreach_angle": "We would like to discuss how Brandhero can help Ramp refine its brand and messaging to better reflect its new AI-native operating system and multi-product platform, and to support its recent funding and hiring efforts.",
+    "opportunity_score": 65,
+    "priority": "HIGH"
+}
+
+-------------------------
+OPPORTUNITY SCORE: 65
+PRIORITY: HIGH
+-------------------------
