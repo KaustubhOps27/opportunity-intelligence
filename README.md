@@ -67,18 +67,18 @@ Likely Need + Stakeholder + Outreach Angle
 
 ## 4. Output
 
-For each company, the system produces:
+For each company, the POC produces:
 
-- Observable signals
-- Supporting evidence
-- Opportunity score
-- Priority
-- Website observations
+- Observable signals — identified by the LLM from the provided evidence
+- Supporting evidence — evidence associated with each detected signal
+- Opportunity score — calculated using deterministic business weights
+- Priority — derived from the opportunity score
+For the final prospecting sheet, I additionally prepared:
 - Likely business need
 - Relevant stakeholder
 - Personalised outreach angle
-
-The final results are maintained in the accompanying Google Sheet.
+These three fields were manually prepared for the five-company POC to demonstrate how the identified signals could be translated into actionable sales intelligence.
+The final results were maintained in the accompanying Google Sheet.
 
 ---
 
