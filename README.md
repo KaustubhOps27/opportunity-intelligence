@@ -67,18 +67,20 @@ Likely Need + Stakeholder + Outreach Angle
 
 ## 4. Output
 
-For each company, the POC produces:
+For each company, the system produces a structured opportunity assessment containing:
 
-- Observable signals — identified by the LLM from the provided evidence
-- Supporting evidence — evidence associated with each detected signal
-- Opportunity score — calculated using deterministic business weights
-- Priority — derived from the opportunity score
-For the final prospecting sheet, I additionally prepared:
-- Likely business need
-- Relevant stakeholder
-- Personalised outreach angle
-These three fields were manually prepared for the five-company POC to demonstrate how the identified signals could be translated into actionable sales intelligence.
-The final results were maintained in the accompanying Google Sheet.
+- **Observable Signals** — six opportunity signals identified by the LLM from the available website and external research evidence.
+- **Supporting Evidence** — evidence and source information associated with each detected signal.
+- **Website Observations** — observations derived from the scraped website content.
+- **Likely Business Need** — the potential Brandhero opportunity inferred from the detected signals.
+- **Relevant Stakeholder** — the decision-maker most relevant to the identified opportunity.
+- **Personalised Outreach Angle** — a concise outreach direction based on the detected signals and business need.
+- **Opportunity Score** — calculated deterministically using predefined business weights.
+- **Priority** — derived from the opportunity score using fixed thresholds.
+
+The LLM is responsible for interpreting the available evidence and generating the qualitative intelligence, while the final opportunity score and priority are calculated independently using deterministic Python logic.
+
+For this POC, the structured JSON output was manually transferred into the accompanying Google Sheet for the five-company evaluation. In a production version, this final reporting step can be automated using the Google Sheets API, allowing each company's structured output to flow directly into the prospecting sheet.
 
 ---
 
